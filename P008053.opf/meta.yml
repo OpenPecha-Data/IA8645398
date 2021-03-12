@@ -5,11 +5,12 @@ source_metadata:
   title: མན་ངག་གནད་འགག་དོ་ཤལ་མཛེས་རྒྱན
   author: ''
   volumes:
-    75c219103d2345e49759df028ee0893e:
+    c88aa0ee99194591a50dc3a95a0ebfe3:
       image_group_id: I1PD103597
-      title: ''
+      title: Volume 1 of man ngag gnad 'gag do shal mdzes rgyan
       volume_number: 1
       total_pages: 124
+      base_file: v001.txt
 ebook_metadata:
   title: མན་ངག་གནད་འགག་དོ་ཤལ་མཛེས་རྒྱན
   author: ''
